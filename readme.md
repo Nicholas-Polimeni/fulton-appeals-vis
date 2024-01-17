@@ -1,0 +1,1 @@
+# Geospatial Analysis of Property Tax Appeal Filings in Fulton County Between 2011 and 2022.
