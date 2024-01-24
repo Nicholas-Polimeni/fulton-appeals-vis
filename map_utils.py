@@ -111,6 +111,8 @@ def gen_choropleth(
         ),
         title_x=0.5,
         margin={"r": 0, "t": 35, "l": 0, "b": 0},
+        width=1200,
+        height=630,
     )
 
     if "colorbar_scale" in params:
